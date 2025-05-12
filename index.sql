@@ -1,3 +1,4 @@
+CREATE DATABASE Library_managment_system;
 -- Create Categories
 CREATE TABLE Categories (
     CategoryID INT AUTO_INCREMENT PRIMARY KEY,
