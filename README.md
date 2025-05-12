@@ -18,9 +18,10 @@ This project is a relational **Library Management System** designed using MySQL.
 - Normalized to 3NF.
 
 ---
-##🧩 Entity Relationship Diagram (ERD)
 
---
+## 🧩 Entity Relationship Diagram (ERD)
+
+---
 
 ## 📥 Setup Instructions
 
