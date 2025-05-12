@@ -18,13 +18,16 @@ This project is a relational **Library Management System** designed using MySQL.
 - Normalized to 3NF.
 
 ---
+##🧩 Entity Relationship Diagram (ERD)
+
+--
 
 ## 📥 Setup Instructions
 
 ### 1. Import the Database
 
-1. Open your MySQL client (e.g., MySQL Workbench or phpMyAdmin)
+1. Open your MySQL client (e.g., MySQL Workbench )
 2. Run the following SQL file:
 
 ```sql
-source path/to/schema.sql;
+source path/to/index.sql;
