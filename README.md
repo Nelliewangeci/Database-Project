@@ -7,8 +7,7 @@ This project is a relational **Library Management System** designed using MySQL.
 
 ## 🛠️ Technologies Used
 - MySQL
-- SQL
-- draw.io o for ERD)
+- draw.io o for ERD
 
 ---
 
