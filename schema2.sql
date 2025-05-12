@@ -1,3 +1,4 @@
+USE library_managment_system;
 -- Insert Categories
 INSERT INTO Categories (CategoryName) VALUES 
 ('Romance'), ('Drama'), ('Politics');
